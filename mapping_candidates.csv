@@ -1,0 +1,88 @@
+imagenet_label,suggested_target,frequency,top_true_classes
+red_fox,,61,jungle-cat:24; sand-cat:21; african-wildcat:8; domestic-cat:4; chinese-mountain-cat:3
+dhole,,45,jungle-cat:22; sand-cat:13; african-wildcat:8; chinese-mountain-cat:2
+fox_squirrel,,45,jungle-cat:19; african-wildcat:12; european-wildcat:5; domestic-cat:4; chinese-mountain-cat:3
+lion,,44,chinese-mountain-cat:12; sand-cat:9; african-wildcat:8; jungle-cat:7; european-wildcat:6
+red_wolf,,23,jungle-cat:11; african-wildcat:8; sand-cat:2; chinese-mountain-cat:1; european-wildcat:1
+timber_wolf,,21,african-wildcat:8; domestic-cat:5; european-wildcat:3; sand-cat:3; chinese-mountain-cat:1
+ibex,,20,jungle-cat:11; african-wildcat:5; chinese-mountain-cat:3; domestic-cat:1
+wombat,,14,chinese-mountain-cat:3; european-wildcat:3; jungle-cat:3; african-wildcat:2; domestic-cat:2
+Arctic_fox,,13,sand-cat:8; domestic-cat:2; jungle-cat:2; african-wildcat:1
+plastic_bag,,11,domestic-cat:7; european-wildcat:3; african-wildcat:1
+dingo,,11,jungle-cat:7; sand-cat:2; african-wildcat:1; domestic-cat:1
+wild_boar,,8,european-wildcat:5; african-wildcat:1; domestic-cat:1; jungle-cat:1
+hog,,8,blackfoot-cat:3; european-wildcat:2; african-wildcat:1; domestic-cat:1; jungle-cat:1
+zebra,,6,african-wildcat:3; blackfoot-cat:2; domestic-cat:1
+bighorn,,6,chinese-mountain-cat:2; european-wildcat:2; african-wildcat:1; jungle-cat:1
+indri,,5,domestic-cat:2; european-wildcat:2; african-wildcat:1
+Madagascar_cat,,5,african-wildcat:1; chinese-mountain-cat:1; domestic-cat:1; european-wildcat:1; sand-cat:1
+great_grey_owl,,5,european-wildcat:4; domestic-cat:1
+white_wolf,,5,jungle-cat:2; sand-cat:2; domestic-cat:1
+prairie_chicken,,4,african-wildcat:3; domestic-cat:1
+doormat,,4,chinese-mountain-cat:4
+warthog,,4,jungle-cat:2; domestic-cat:1; european-wildcat:1
+hartebeest,,3,african-wildcat:3
+African_hunting_dog,,3,african-wildcat:1; blackfoot-cat:1; domestic-cat:1
+whiptail,,3,blackfoot-cat:3
+weasel,,3,chinese-mountain-cat:1; jungle-cat:1; sand-cat:1
+marmoset,,3,european-wildcat:2; chinese-mountain-cat:1
+Bouvier_des_Flandres,,3,european-wildcat:2; domestic-cat:1
+llama,,2,african-wildcat:1; chinese-mountain-cat:1
+meerkat,,2,african-wildcat:1; jungle-cat:1
+hamper,,2,chinese-mountain-cat:1; domestic-cat:1
+horned_viper,,2,chinese-mountain-cat:1; sand-cat:1
+crate,,2,chinese-mountain-cat:1; domestic-cat:1
+Border_collie,,2,domestic-cat:2
+basenji,,2,domestic-cat:2
+web_site,,2,domestic-cat:1; sand-cat:1
+badger,,2,european-wildcat:1; jungle-cat:1
+impala,,1,african-wildcat:1
+shield,,1,blackfoot-cat:1
+toilet_seat,,1,blackfoot-cat:1
+jigsaw_puzzle,,1,blackfoot-cat:1
+fur_coat,,1,blackfoot-cat:1
+terrapin,,1,blackfoot-cat:1
+leatherback_turtle,,1,blackfoot-cat:1
+corn,,1,chinese-mountain-cat:1
+marmot,,1,chinese-mountain-cat:1
+computer_keyboard,,1,chinese-mountain-cat:1
+baboon,,1,chinese-mountain-cat:1
+bolete,,1,chinese-mountain-cat:1
+Cardigan,,1,chinese-mountain-cat:1
+Norwich_terrier,,1,chinese-mountain-cat:1
+carton,,1,chinese-mountain-cat:1
+shower_curtain,,1,chinese-mountain-cat:1
+skunk,,1,domestic-cat:1
+patas,,1,domestic-cat:1
+ringlet,,1,domestic-cat:1
+African_grey,,1,domestic-cat:1
+file,,1,domestic-cat:1
+collie,,1,domestic-cat:1
+malamute,,1,domestic-cat:1
+paper_towel,,1,domestic-cat:1
+Chihuahua,,1,domestic-cat:1
+West_Highland_white_terrier,,1,domestic-cat:1
+banded_gecko,,1,domestic-cat:1
+whippet,,1,domestic-cat:1
+Ibizan_hound,,1,domestic-cat:1
+mink,,1,european-wildcat:1
+Angora,,1,european-wildcat:1
+guinea_pig,,1,european-wildcat:1
+hamster,,1,european-wildcat:1
+brown_bear,,1,european-wildcat:1
+American_black_bear,,1,european-wildcat:1
+bison,,1,european-wildcat:1
+Sussex_spaniel,,1,european-wildcat:1
+titi,,1,european-wildcat:1
+acorn,,1,european-wildcat:1
+African_crocodile,,1,european-wildcat:1
+ptarmigan,,1,european-wildcat:1
+ram,,1,jungle-cat:1
+ox,,1,jungle-cat:1
+book_jacket,,1,jungle-cat:1
+Saluki,,1,jungle-cat:1
+vizsla,,1,jungle-cat:1
+bloodhound,,1,jungle-cat:1
+redbone,,1,jungle-cat:1
+Rhodesian_ridgeback,,1,jungle-cat:1
+muzzle,,1,sand-cat:1

@@ -1,0 +1,20 @@
+{
+  "classes": [
+    "african-wildcat",
+    "blackfoot-cat",
+    "chinese-mountain-cat",
+    "domestic-cat",
+    "european-wildcat",
+    "jungle-cat",
+    "sand-cat"
+  ],
+  "class_to_idx": {
+    "african-wildcat": 0,
+    "blackfoot-cat": 1,
+    "chinese-mountain-cat": 2,
+    "domestic-cat": 3,
+    "european-wildcat": 4,
+    "jungle-cat": 5,
+    "sand-cat": 6
+  }
+}
